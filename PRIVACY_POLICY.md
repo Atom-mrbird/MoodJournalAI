@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-**Last Updated:** May 23, 2024
+**Last Updated:** October 7, 2025
 
 This Privacy Policy describes how Mood Journal AI ("we," "us," or "our") collects, uses, and shares your personal information when you use our mobile application (the "App"). This App utilizes the Spotify API to provide music recommendations based on your mood.
 
